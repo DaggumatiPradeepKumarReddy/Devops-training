@@ -3,5 +3,6 @@ venus
 earth
 jupiter
 saturn
-uranus
+amigoo
+helliooo
 pluto
